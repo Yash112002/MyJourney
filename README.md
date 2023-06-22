@@ -1,2 +1,3 @@
-# MyJourney
-My journey on leetcode...
+# Preparation
+
+# 877
